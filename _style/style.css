@@ -4,7 +4,8 @@
 {
   text-decoration: none;
   margin: 0px;
-  padding: 0px;  
+  padding: 0px;
+  list-style: none; 
 }
 
 body {
@@ -14,16 +15,6 @@ body {
 
 }
 
-p.objetivo
-{
-  margin-left: 100px;
-  text-align: justify;
-}
-
-p, strong
-{
-  margin-left: 10px;
-}
 
 /*Formatqação de Menu*/
 
@@ -86,6 +77,12 @@ img
     border: 5px solid #ffffff;
     background-color: #ffffff;
     box-shadow: 1px 1px 3px rgba(0,0,0,.4);
+    
+}
+
+figcaption
+{
+  clear: both;
 }
 
 #dados-pessoais
