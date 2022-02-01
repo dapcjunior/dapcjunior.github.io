@@ -30,6 +30,12 @@ ul.dados-pessoais
   list-style: none;
 }
 
+dt
+{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 nav#menu ul 
 {
     list-style: none;
